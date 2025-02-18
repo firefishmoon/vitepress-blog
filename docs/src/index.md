@@ -3,17 +3,17 @@
 layout: home
 
 hero:
-  name: "Easy VitePress Blog"
-  text: "轻松构建你的个人博客"
-  tagline: "🚀Simple, robust and swift.Experience the enhanced VitePress for your blogging needs"
+  name: "Make Programmer Be Rich"
+  text: "360Dev"
+  tagline: "💴关注如何让程序员变富有💪"
   image:
     src: /logo.png
     alt: VitePress
   actions:
+    # - theme: brand
+    #   text: Get Start
+    #   link: /Notes/0tutorial/quickstart
     - theme: brand
-      text: Get Start
-      link: /Notes/0tutorial/quickstart
-    - theme: alt
       text: View Document
       link: /Notes/
 
